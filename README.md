@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WAYSON3338
-- 👀 I’m interested in diving car
+- 👀 I’m interested in driving car
 - 🌱 I’m currently learning python && datebase
 - 💞️ I’m looking to collaborate on someone can teach me
 - 📫 How to reach me ,chinese ,wechat waysonW
